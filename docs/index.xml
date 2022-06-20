@@ -35,17 +35,9 @@
 </description>
         </item>
         <item>
-        <title>Archives</title>
-        <link>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/archives/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
         
         <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/markdown-syntax-guide/</guid>
         <description>&lt;img src="https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
@@ -271,6 +263,14 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/archives/</guid>
+        <description></description>
         </item>
         <item>
         <title>Links</title>
