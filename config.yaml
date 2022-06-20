@@ -2,7 +2,7 @@ baseurl: https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Jonas Vannieuwenhuijsen
+title: Jonas Vannieuwenhuijsen 
 publishDir: "docs"
 
 
