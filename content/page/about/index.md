@@ -1,12 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
+description: Jonas Vannieuwenhuijsen
 date: '2022-06-20'
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
+  - about-jonas
+  - about-vannieuwenhuijsen
   - contact
-license: CC BY-NC-ND
+license: 
 lastmod: '2022-06-20'
 menu:
     main: 
@@ -15,20 +16,52 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Contact
+:telephone_receiver: +32498406385
+:e-mail: jonas.vannieuwenhuijsen64@gmail.com
 
-Hugo makes use of a variety of open source projects including:
+:round_pushpin: Roelstraat 64, 3440 Budingen
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Education
+> Master of Electronics and ICT Engineering Technology
+>
+> :round_pushpin: KU Leuven Faculty of Engineering Technology - Diepenbeek Campus
+>
+> :calendar: 09/2021 - Ongoing
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+> Bachelor of Electronics and ICT Engineering Technology
+>
+> :round_pushpin: KU Leuven Faculty of Engineering Technology - Diepenbeek Campus
+>
+> :calendar: 09/2018 - 06/2021
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+> Industrial sciences
+>
+> :round_pushpin: Sint-Martinusschool Herk-De-Stad
+>
+> :calendar: 09/2012 - 06/2018
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Experience
+> Master Thesis
+>
+> :round_pushpin: Arkite NV (Genk)
+>
+> :calendar: 09/2021 - Ongoing
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+> Bachelor Thesis: Estimation of SpO2 and Heart Rate based on Photoplethysmographic Measurements at the Sternum
+>
+> :round_pushpin: UHasselt - imo-imomec
+>
+> :calendar: 01/2021 - 06/2021
+
+> Volleybal Trainer / Animator (Summer job)
+>
+> :round_pushpin: Sporta / VC Greenyard Maaseik
+>
+> :calendar: 2018 - 2022
+
+> Administrative Assistant (Summer job)
+>
+> :round_pushpin: IDEWE Hasselt
+>
+> :calendar: 2017 - 2021

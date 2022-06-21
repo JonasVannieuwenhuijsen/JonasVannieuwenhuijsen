@@ -12,26 +12,47 @@
         <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
         
         <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;📞 +32498406385
+📧 &lt;a class=&#34;link&#34; href=&#34;mailto:jonas.vannieuwenhuijsen64@gmail.com&#34; &gt;jonas.vannieuwenhuijsen64@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📍 Roelstraat 64, 3440 Budingen&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Master of Electronics and ICT Engineering Technology&lt;/p&gt;
+&lt;p&gt;📍 KU Leuven Faculty of Engineering Technology - Diepenbeek Campus&lt;/p&gt;
+&lt;p&gt;📆 09/2021 - Ongoing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bachelor of Electronics and ICT Engineering Technology&lt;/p&gt;
+&lt;p&gt;📍 KU Leuven Faculty of Engineering Technology - Diepenbeek Campus&lt;/p&gt;
+&lt;p&gt;📆 09/2018 - 06/2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Industrial sciences&lt;/p&gt;
+&lt;p&gt;📍 Sint-Martinusschool Herk-De-Stad&lt;/p&gt;
+&lt;p&gt;📆 09/2012 - 06/2018&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Master Thesis&lt;/p&gt;
+&lt;p&gt;📍 Arkite NV (Genk)&lt;/p&gt;
+&lt;p&gt;📆 09/2021 - Ongoing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bachelor Thesis: Estimation of SpO2 and Heart Rate based on Photoplethysmographic Measurements at the Sternum&lt;/p&gt;
+&lt;p&gt;📍 UHasselt - imo-imomec&lt;/p&gt;
+&lt;p&gt;📆 01/2021 - 06/2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Volleybal Trainer / Animator (Summer job)&lt;/p&gt;
+&lt;p&gt;📍 Sporta / VC Greenyard Maaseik&lt;/p&gt;
+&lt;p&gt;📆 2018 - 2022&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Administrative Assistant (Summer job)&lt;/p&gt;
+&lt;p&gt;📍 IDEWE Hasselt&lt;/p&gt;
+&lt;p&gt;📆 2017 - 2021&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
@@ -263,6 +284,20 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Bachelor Thesis</title>
+        <link>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/bachelor-thesis/</link>
+        <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/bachelor-thesis/</guid>
+        <description>&lt;img src="https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/p/bachelor-thesis/BachelorThesisFront.jpg" alt="Featured image of post Bachelor Thesis" /&gt;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Continuous observation of a patient&amp;rsquo;s health parameters in the hospital is very important. Oxygen saturation and heart rate are two important health parameters to determine the early warning score. These 2 health parameters can be determined by using photoplethysmography (PPG). The PPG uses light of different wavelengths and a photodetector to capture the reflected light.&lt;/p&gt;
+&lt;p&gt;Raw data was obtained from 2 different devices. On the first device, 2 PPG sensors are present in a different location. This makes it possible to determine at which location the PPG sensor measures the best data. The data transfer is accomplished via a USB connection. In the second device, there is only 1 PPG sensor present and the data transfer is transferred via MQTT over Wi-Fi.&lt;/p&gt;
+&lt;p&gt;For the data analysis, little difference in data quality was observed between the raw data coming from both the devices. The raw data was filtered in MATLAB using a lowpass filter with a cutoff frequency of 1 Hz and an infinite impulse response (IIR). Then the data is processed in MATLAB to determine the heart rate and oxygen saturation values.&lt;/p&gt;
+&lt;p&gt;Tests were conducted on 4 healthy volunteers, and the extracted data has indicated that both the phi value and the heart rate are fairly stable. The next step is to determine the SpO2 level based on the phi value. Furthermore, the heart rate variability (HRV) and the respiration rate (RR) can be calculated.
+Finally, when the case is correctly positioned with the correct settings for the LED intensity, a very nice signal is measured that ensures that we are able to obtain a good and stable result.&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Archives</title>

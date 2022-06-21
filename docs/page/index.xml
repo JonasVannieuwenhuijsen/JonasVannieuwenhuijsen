@@ -12,26 +12,47 @@
         <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
         
         <guid>https://JonasVannieuwenhuijsen.github.io/JonasVannieuwenhuijsen/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;📞 +32498406385
+📧 &lt;a class=&#34;link&#34; href=&#34;mailto:jonas.vannieuwenhuijsen64@gmail.com&#34; &gt;jonas.vannieuwenhuijsen64@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📍 Roelstraat 64, 3440 Budingen&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Master of Electronics and ICT Engineering Technology&lt;/p&gt;
+&lt;p&gt;📍 KU Leuven Faculty of Engineering Technology - Diepenbeek Campus&lt;/p&gt;
+&lt;p&gt;📆 09/2021 - Ongoing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bachelor of Electronics and ICT Engineering Technology&lt;/p&gt;
+&lt;p&gt;📍 KU Leuven Faculty of Engineering Technology - Diepenbeek Campus&lt;/p&gt;
+&lt;p&gt;📆 09/2018 - 06/2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Industrial sciences&lt;/p&gt;
+&lt;p&gt;📍 Sint-Martinusschool Herk-De-Stad&lt;/p&gt;
+&lt;p&gt;📆 09/2012 - 06/2018&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Master Thesis&lt;/p&gt;
+&lt;p&gt;📍 Arkite NV (Genk)&lt;/p&gt;
+&lt;p&gt;📆 09/2021 - Ongoing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bachelor Thesis: Estimation of SpO2 and Heart Rate based on Photoplethysmographic Measurements at the Sternum&lt;/p&gt;
+&lt;p&gt;📍 UHasselt - imo-imomec&lt;/p&gt;
+&lt;p&gt;📆 01/2021 - 06/2021&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Volleybal Trainer / Animator (Summer job)&lt;/p&gt;
+&lt;p&gt;📍 Sporta / VC Greenyard Maaseik&lt;/p&gt;
+&lt;p&gt;📆 2018 - 2022&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Administrative Assistant (Summer job)&lt;/p&gt;
+&lt;p&gt;📍 IDEWE Hasselt&lt;/p&gt;
+&lt;p&gt;📆 2017 - 2021&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
