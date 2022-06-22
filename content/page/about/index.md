@@ -50,6 +50,8 @@ menu:
 
 > Bachelor Thesis: Estimation of SpO2 and Heart Rate based on Photoplethysmographic Measurements at the Sternum
 >
+> [Link]({{< ref "post/bachelor-thesis" >}} "Link to abstract")
+>
 > :round_pushpin: UHasselt - imo-imomec
 >
 > :calendar: 01/2021 - 06/2021
