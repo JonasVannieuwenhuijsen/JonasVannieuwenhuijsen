@@ -27,7 +27,7 @@ menu:
 >
 > :round_pushpin: KU Leuven Faculty of Engineering Technology - Diepenbeek Campus
 >
-> :calendar: 09/2021 - Ongoing
+> :calendar: 09/2021 - 09/2022
 
 > Bachelor of Electronics and ICT Engineering Technology
 >
